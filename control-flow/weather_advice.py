@@ -1,6 +1,6 @@
 # Ask for user input
 
-weather = input("What's the waether like today? (sunny/rainy/cold): ")
+weather = input("What's the weather like today? (sunny/rainy/cold): ")
 
 # Give recommendations
 
