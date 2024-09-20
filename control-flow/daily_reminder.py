@@ -2,9 +2,9 @@
 
 task = input("Enter a task description: ")
 
-priority = input("Enter the tasks priority (high, medium, low): ")
+priority = input("Enter the tasks priority (high/medium/low): ")
 
-time_bound = input("Is the task time-bound? (Yes or No): ")
+time_bound = input("Is the task time-bound? (yes/no): ")
 
 # React differently bassed on priority
 
