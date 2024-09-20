@@ -1,6 +1,6 @@
 # Ask for user input"
 
-task = input("Enter a task description: ")
+task = input("Enter your task: ")
 
 priority = input("Priority (high/medium/low): ")
 
