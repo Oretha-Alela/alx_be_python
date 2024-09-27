@@ -8,7 +8,7 @@ def main():
     print(f"Future date: {calculate_future_date(days)}")
 
 def display_current_datetime():
-    current_date = datetime.datetime.now().replace(microsecond=0)
+    current_date = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     return current_date
 
 
