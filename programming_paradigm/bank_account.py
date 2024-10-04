@@ -17,9 +17,10 @@ class BankAccount:
             return False
 
     def display_balance(self):
-         message = f"Current Balance: ${self.account_balance}"
+         message = f"Current Balance: ${self.account_balance:.2f}"
          print(message)
          
+
 
 
 
